@@ -14,7 +14,7 @@ Hi there! I'm Arham M., a passionate **Data Scientist** with over 1.5 years of e
 - 🎓 **Education:** Background in Computer Science and Data Science.
 - 🌍 **Location:** Based in [Sahiwal/Pakistan].
 
-## 🔭 My Projects
+## 🔭 My Repos
 
 Here are some of the key projects you can find in my repositories:
 
