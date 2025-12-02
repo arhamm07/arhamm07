@@ -13,13 +13,11 @@
 - 🎓 Bachelor's in Computer Science (University of Sahiwal, 2021–2025)  
 - 💡 Passionate Machine Learning Engineer with hands-on experience in **Deep Learning, NLP, Computer Vision, and MLOps**  
 - 🚀 Skilled in building **production-ready AI systems** and deploying ML pipelines  
-- 🌍 Actively contributing to open-source and exploring cutting-edge AI research  
 
 ---
 
 ## 🧠 My Focus Areas
-- Natural Language Processing (NLP)  
-- Computer Vision  
+- Natural Language Processing (NLP)    
 - Recommender Systems  
 - MLOps & Model Deployment  
 
@@ -27,7 +25,6 @@
 
 ## 🏆 Achievements
 - 🥇 Completed **Machine Learning Specialization (Deeplearning.ai, Coursera, 2025)**  
-- 🔬 Built **Automated Fracture Surface Feature Analyser** using CV + ML for scientific image analysis  
 - 💻 Internship at **Prodigy InfoTech**: engineered & deployed ML/DL models with improved accuracy and latency  
 
 ---
@@ -74,21 +71,6 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
 </p>
-
----
-
-## 🚀 Featured Projects
-- 🔬 **Automated Fracture Surface Feature Analyser** – CV + ML pipeline for scientific image analysis  
-- 🤖 **NLP Chatbot** – Context-aware conversational AI using Transformers  
-- 📈 **Recommender System** – Personalized product recommendations using collaborative filtering  
-- 🧪 **Computer Vision Models** – Image classification & segmentation with PyTorch  
-
----
-
-## 🎉 Fun Facts
-- ⚡ Love designing **minimalist portfolios** with micro-interactions  
-- 📚 Always exploring **AI research papers** and implementing them in real-world projects  
-- 🎮 Enjoy gaming & experimenting with **AI-powered applications**  
 
 ---
 
