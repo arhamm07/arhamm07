@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - A passionate Machine Learning Engineer with hands-on experience in Deep Learning, Natural Language Processing, and building production-ready AI systems. I hold a Bachelor's degree in Computer Science and have expertise in developing innovative machine learning solutions that solve real-world problems.
 
@@ -18,10 +16,6 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arhamm07&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="arhamm07's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=arhamm07&theme=dark&hide_border=true&cache_seconds=86400" alt="arhamm07's GitHub Streak" width="49%" />
-</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arhamm07&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="M Arham Rafique's GitHub Trophies" />
 </p>
