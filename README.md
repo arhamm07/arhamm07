@@ -31,9 +31,6 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arhamm07&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="M Arham Rafique's GitHub Trophies" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=arhamm07&theme=dark&radius=10" alt="arhamm07's Activity Graph" />
 </p>
 <p align="center">
